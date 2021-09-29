@@ -1,5 +1,5 @@
 <?php
-include "header.php";
+include "loginSignUp.php";
 ?>
 <section class="signup-form">
     <h2>Sign Up</h2>
